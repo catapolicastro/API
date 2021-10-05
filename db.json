@@ -1,0 +1,33 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "BBVA",
+      "body": "TEA = 50%"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Banco Galicia",
+      "body": "TEA = 38%"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "ICBC",
+      "body": "TEA = 45%"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Banco Santander",
+      "body": "TEA = 40%"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "HSBC",
+      "body": "TEA = 32%"
+    }
+    
+  ]
