@@ -1,0 +1,34 @@
+{"Tasas de interés":[
+    {
+      "userId": 1,
+      "id": 1,
+      "Banco": "BBVA",
+      "TEA": "TEA = 50%"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "Banco": "Banco Galicia",
+      "TEA": "TEA = 38%"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "Banco": "ICBC",
+      "TEA": "TEA = 45%"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "Banco": "Banco Santander",
+      "TEA": "TEA = 40%"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "Banco": "HSBC",
+      "TEA": "TEA = 32%"
+    }
+    
+  ]
+}
